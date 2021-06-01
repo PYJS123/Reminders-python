@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Reminders-python
+A way to keep your reminders stored crudely in a text file in a way that could cause some serious errors.
 
-You can use the [editor on GitHub](https://github.com/PYJS123/Reminders-python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## STEPS TO DOWNLOAD:
+1. Download repository 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](assets/Capture.PNG)
 
-### Markdown
+2. Extract to any location
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](assets/Capture1.PNG)
 
-```markdown
-Syntax highlighted code block
+3. Make sure all directories leading to the files are not 'read-only' by following these instructions on each file and directory to them (for Windows and every other OS for all I know):
+   1. Right-click the file/directory
+   2. Click 'Properties'
+   3. Un-check the 'Read-only' box
+   4. Do all the bla-dee-bla it tells you to do
+   5. Click 'Apply' and 'OK'
 
-# Header 1
-## Header 2
-### Header 3
+![](assets/Capture2.PNG)
 
-- Bulleted
-- List
+4. Open the python file and have a nice day using the world's most to-the-metal version of a reminder-keeper (?).
 
-1. Numbered
-2. List
+## More information about the actual program:
+1. When prompted 'What do you want to do? (+, -, c, or s):', + is for adding reminders, - for deleting them, c for clearing all reminders, and s for showing the current reminders.
+2. When asked whether you want to delete reminders by line number or the actual, raw form of the reminder (as in string form, if that was confusing), d is for inputting line number and r is for the raw form.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PYJS123/Reminders-python/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![](assets/Capture3.PNG)
