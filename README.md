@@ -11,3 +11,7 @@ A way to keep your reminders stored crudely in a text file in a way that could c
    4. Do all the bla-dee-bla it tells you to do
    5. Click 'Apply' and 'OK'
 4. Open the python file and have a nice day using the world's most to-the-metal version of a reminder-keeper (?).
+
+## More information about the actual program:
+1. When prompted 'What do you want to do? (+, -, c, or s):', + is for adding reminders, - for deleting them, c for clearing all reminders, and s for showing the current reminders.
+2. When asked whether you want to delete reminders by line number or the actual, raw form of the reminder (as in string form, if that was confusing), d is for inputting line number and r is for the raw form.
