@@ -1,6 +1,6 @@
 # Reminders-python
 A way to keep your reminders stored crudely in a text file in a way that could cause some serious errors.
-<a href="Reminders-python-main.zip" download>Download</a>
+<button><a href="Reminders-python-main.zip" download>Download</a></button>
 
 ## STEPS TO DOWNLOAD:
 1. Download repository 
